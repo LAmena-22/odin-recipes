@@ -1,0 +1,72 @@
+/* style for recipe pages */
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(232, 205, 165);
+}
+
+.container {
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+  background-color: rgb(162, 137, 111);
+}
+
+h1 {
+  font-size: 36px;
+  margin: 0 0 10px;
+}
+
+img {
+  width: 400px;
+  height: auto;
+  border: 1px black solid;
+}
+
+ul,
+ol {
+  text-align: left;
+  display: inline-block;
+}
+
+li {
+  font-size: 18px;
+  margin: 5px auto;
+}
+
+.nav,
+.food,
+.desc,
+.ing,
+.steps {
+    border: 2px black solid;
+    background-color: rgb(255, 255, 240); 
+    margin: 10px;
+}
+
+.nav,
+.desc {
+    margin: 0;
+}
+
+.food {
+  margin: 10px 0;
+    padding: 20px;
+}
+
+.desc {
+    text-align: justify;
+    padding: 0 20px;
+}
+
+.desc h2 {
+    text-align: center;
+}
+
+.ing,
+.steps {
+  width: 40%;
+  height: auto;
+  display: inline-block;
+  padding: 0 20px;
+}
