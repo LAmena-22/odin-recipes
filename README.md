@@ -1,3 +1,13 @@
 # odin-recipes
+A practice project showcasing chosen recipes from [allrecipes](https://www.allrecipes.com/) using html elements such as links, headers, lists (ordered and unordered), and images. Later implemented css styling for better looking pages.
 
-this is a project showcasing recipes using html elements such as headers, lists (ordered and unordered), links, and images.
+## Technology used
+* HTML
+* CSS
+
+## Features
+* Recipe home page
+* grouped css selectors
+<hr>
+Part of the <a href="https://www.theodinproject.com/">The Odin Project</a> curriculum
+All images belong to <a href="https://www.allrecipes.com/">allrecipes</a>
