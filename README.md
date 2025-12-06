@@ -7,7 +7,8 @@ A practice project showcasing chosen recipes from [allrecipes](https://www.allre
 
 ## Features
 * Recipe home page
-* grouped css selectors
+* Grouped css selectors
 <hr>
 Part of the <a href="https://www.theodinproject.com/">The Odin Project</a> curriculum
+<br>
 All images belong to <a href="https://www.allrecipes.com/">allrecipes</a>
