@@ -1,4 +1,4 @@
-# odin-recipes
+# Odin Recipes
 A [practice project](https://www.theodinproject.com/lessons/foundations-recipes) showcasing chosen recipes from [allrecipes](https://www.allrecipes.com/) using html elements such as links, headers, lists (ordered and unordered), and images. Later implemented css styling for better looking pages.
 
 ## Technology used
