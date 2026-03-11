@@ -10,5 +10,5 @@ A [practice project](https://www.theodinproject.com/lessons/foundations-recipes)
 * Grouped css selectors
 <hr>
 Part of the <a href="https://www.theodinproject.com/">The Odin Project</a> curriculum
-<br>
+<br><br>
 All images belong to <a href="https://www.allrecipes.com/">allrecipes</a>
